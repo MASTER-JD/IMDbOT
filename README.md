@@ -35,7 +35,8 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#about">About</a></li>
-    <li><a href="#background">Background</a></li>
+    <li><a href="#TelegramBot">Telegram Bot</a></li>
+    <li><a href="#API">Hosted API</a></li>
     <li><a href="#support">Support</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#copyright">Copyright</a></li>
@@ -48,10 +49,13 @@ IMDbOT is free API that **illegally searches** IMDb.com and formats the results 
 
 > Try the [Telegram Bot](https://t.me/IMDbOT) to check the available formatting options.
 
-<!-- ABOUT THE PROJECT -->
-## Background
+## TelegramBot
 
-I started IMDbOT as a side project two years ago because of the frustration of not finding a single API service that provided reliable IMDb.com informations. 
+The **TelegramBot** is an InLine bot and can be used in any chat, without the need to add it to any specific chat. 
+
+## API
+
+The **API** is hosted with ❤️ on [Heroku](https://betterimdbot.herokuapp.com/docs/).
 
 <!-- USAGE EXAMPLES -->
 ## Support
